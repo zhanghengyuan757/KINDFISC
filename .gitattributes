@@ -1,2 +1,1 @@
-files/dataset/luad/.csv filter=lfs diff=lfs merge=lfs -text
-files/dataset/brca/.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
