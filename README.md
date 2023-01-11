@@ -1,2 +1,2 @@
-# IDTS
-This is the code of paper 'A knowledge-informed deep learning framework for fine-grained time series inferences of disease progression in cancer patients'
+# KINDFISC
+This is the code of paper 'KINDFISC: A knowledge-informed deep learning approach to predicting fine-grained disease progression state of cancer tissues from TNM labels'
